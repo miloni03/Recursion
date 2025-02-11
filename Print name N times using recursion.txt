@@ -1,0 +1,14 @@
+int count=0;
+    void printGfg(int N) {
+        // Code here
+        cout<<"Miloni"<<" ";
+        count++;
+        if(count == N)
+        {
+            return;
+        }
+        printGfg(N);
+        
+    }
+
+//Printing name n times using recurssion.
