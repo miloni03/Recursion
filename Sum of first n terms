@@ -1,0 +1,16 @@
+int i=1,sum=0;
+    int sumOfSeries(int n) {
+        // code here
+        if(i>n)
+        {
+            return sum;
+        }
+        sum=sum+pow(i,3);
+        i++;
+        return sumOfSeries(n);
+        
+    }
+
+Input: n = 5
+Output: 225
+Explanation: 13 + 23 + 33 + 43 + 53 = 225
