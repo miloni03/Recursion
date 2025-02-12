@@ -9,3 +9,4 @@ int sumOfSeries(int n) {
 
 Input: 4
 Output: 24
+//4*3*2*1
