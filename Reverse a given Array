@@ -21,4 +21,8 @@ int main() {
    reverseArray(arr, n);
    return 0;
 }
+Input:
+1234
 
+Output:
+4321
