@@ -12,3 +12,9 @@ int count=0;
     }
 
 //Printing name n times using recurssion.
+Input:
+3
+Output: 
+Miloni
+Miloni
+Miloni
