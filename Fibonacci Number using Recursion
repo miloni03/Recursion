@@ -7,3 +7,6 @@ int fib(int n) {
         
     }
 
+Input: 4
+Output: 3
+
